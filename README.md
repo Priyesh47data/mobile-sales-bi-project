@@ -171,7 +171,7 @@ mobile-sales-dashboard/
 ## 🙋‍♂️ Author
 
 
-- GitHub: [@Priyesh50data](https://github.com/Priyesh47data)
+- GitHub: [@Priyesh47data](https://github.com/Priyesh47data)
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/priyesh50)
 
 ---
