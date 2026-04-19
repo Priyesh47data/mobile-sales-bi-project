@@ -121,7 +121,7 @@ Average Price = AVERAGE(Data_Table[Unit Price])
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/mobile-sales-dashboard.git
+   git clone https://github.com/Priyesh47data/mobile-sales-bi-project.git
    ```
 
 2. **Open the report**
