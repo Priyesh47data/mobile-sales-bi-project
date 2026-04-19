@@ -172,7 +172,7 @@ mobile-sales-dashboard/
 
 
 - GitHub: [@Priyesh47data](https://github.com/Priyesh47data)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/priyesh50)
+- LinkedIn: [linkedin.com/in/priyesh50](https://linkedin.com/in/priyesh50)
 
 ---
 
