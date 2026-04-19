@@ -115,7 +115,7 @@ Average Price = AVERAGE(Data_Table[Unit Price])
 ## 🚀 Getting Started
 
 ### Prerequisites
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free download)
+- [Power BI Desktop](https://app.powerbi.com/reportEmbed?reportId=736e76ee-2ed6-46c0-b8b8-ee90995a3c4b&autoAuth=true&ctid=adbbbb7d-8aa9-4cf9-9a68-5486bedc438b) (free download)
 
 ### Steps to Run
 
